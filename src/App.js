@@ -25,6 +25,7 @@ export default function App() {
         <div className="center-container"></div>
       </div>
       <TaskInput addList={addList} />
+      <br />
       {listToDo.map((listItem, i) => {
         return (
           <ToDoList
@@ -43,5 +44,5 @@ export default function App() {
 //add list of follow up dates with percentage of task completion
 //categories
 //location or address
-// date and time
-// any links
+//date and time
+//any links
