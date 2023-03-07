@@ -38,3 +38,10 @@ export default function App() {
     </div>
   );
 }
+
+//calendar integration
+//add list of follow up dates with percentage of task completion
+//categories
+//location or address
+// date and time
+// any links
